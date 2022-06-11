@@ -5,6 +5,9 @@ date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   html_document:
     df_print: paged
+    toc: yes
+    toc_float: yes
+    code_folding: show
   pdf_document: default
 ---
 
