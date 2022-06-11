@@ -1,0 +1,25 @@
+This data set is from [Kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). The following are the key variables:
+
+- ```fixed acidity```: The fixed acidity indicator of the wine.
+
+- ```volatile acidity```: The amount of acetic acid in the wine.
+
+- ```citric acid```: The amount of citric acid in the wine.
+
+- ```residual sugar```: The amount of sugar remaining after fermentation stops.
+
+- ```chlorides```: The amount of salt in the wine.
+
+- ```free sulfur dioxide```: The amount of free form of SO2 exists in the wine.
+
+- ```total sulfur dioxide```: The amount of free and bound forms of S02 in the wine.
+
+- ```density```: The density of the wine.
+
+- ```pH```: The pH value of the wine, describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic).
+
+- ```sulphates```: The amount of sulphates in the wine, which can contribute to sulfur dioxide gas (S02) levels, which acts as an antimicrobial.
+
+- ```alcohol```: The percent alcohol content of the wine.
+
+- ```quality```: The quality of wine (score between 3 and 8).
